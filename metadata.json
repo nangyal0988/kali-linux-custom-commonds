@@ -1,0 +1,6 @@
+{
+  "name": "Kali Linux Learning Hub",
+  "description": "An interactive learning platform for Kali Linux tools, commands, and cyber security tutorials with difficulty-based progressions, custom quizzes, and mock terminal-based lab simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
